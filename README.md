@@ -11,7 +11,7 @@ Usage
 Open index.html
 
 Support
-Email me! matt@castal.do
+Email me! castaldo.matthew@gmail.com
 
 Roadmap
 No roadmap to continue thos project, as of yet!
